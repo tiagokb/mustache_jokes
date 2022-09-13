@@ -3,6 +3,6 @@ package br.com.tiagokontarski.mustachejokes.enums
 class DadJokesAPI {
 
     companion object {
-        const val BASE_URL = "https://icanhazdadjoke.com"
+        const val BASE_URL = "https://api-charadas.herokuapp.com"
     }
 }

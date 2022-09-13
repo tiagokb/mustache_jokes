@@ -4,10 +4,10 @@ import br.com.tiagokontarski.mustachejokes.models.Joke
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Headers
+import retrofit2.http.Query
 
 interface DadJokesEndpoints {
 
-    @Headers("Accept: application/json")
-    @GET("/")
-    fun getRandomJoke(): Call<Joke>
+    @GET("/puzzle")
+    fun getRandomJoke(@Query("lang") lang: String): Call<Joke>
 }

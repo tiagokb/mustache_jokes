@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/FormContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/new_question_til"
+        style="@style/DefaultTIL"
+        android:layout_marginTop="48dp"
+        android:hint="@string/question_joke_hint">
+
+        <EditText
+            android:id="@+id/new_question_et"
+            style="@style/DefaultEditText" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/new_answer_til"
+        style="@style/DefaultTIL"
+        android:layout_marginTop="24dp"
+        android:hint="@string/answer_joke_hint">
+
+        <EditText
+            android:id="@+id/new_answer_et"
+            style="@style/DefaultEditText" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <br.com.tiagokontarski.mustachejokes.utils.LoadingButton
+        android:id="@+id/new_joke_save"
+        android:layout_marginTop="48dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:text="Salvar piada" />
+
+</LinearLayout>

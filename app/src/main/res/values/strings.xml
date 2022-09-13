@@ -3,4 +3,10 @@
     <string name="tell_me_a_joke">Tell me a joke</string>
     <string name="tell_me_another_joke">Tell me another joke</string>
     <string name="searching">Searching…</string>
+    <string name="tab_jokes">Jokes</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="random_joke_fail">Ops, parece que algo deu errado!</string>
+    <string name="question">Pergunta</string>
+    <string name="question_joke_hint">Escreva a pergunta da piada...</string>
+    <string name="answer_joke_hint">Escreva a resposta da piada...</string>
 </resources>

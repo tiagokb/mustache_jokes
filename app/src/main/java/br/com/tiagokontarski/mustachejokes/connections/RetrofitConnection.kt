@@ -1,4 +1,4 @@
-package br.com.tiagokontarski.mustachejokes.utils
+package br.com.tiagokontarski.mustachejokes.connections
 
 import br.com.tiagokontarski.mustachejokes.enums.DadJokesAPI
 import com.google.gson.GsonBuilder

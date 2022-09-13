@@ -6,7 +6,7 @@
     <color name="colorOnPrimary">@color/pink</color>
 
     <color name="colorSecondary">@color/white</color>
-    <color name="colorSecondaryDark">@color/white</color>
+    <color name="colorSecondaryDark">@color/gray</color>
     <color name="colorOnSecondary">@color/black</color>
 
     <color name="colorPrimaryNight">@color/black</color>
@@ -29,5 +29,10 @@
     <color name="dark_pink">#560066</color>
 
     <color name="gray">#474747</color>
-    <color name="light_gray">#6C6C6C</color>
+    <color name="light_gray">#DDDDDD</color>
+
+    <color name="ultra_light_gray">#F7F7F7</color>
+
+    <color name="darkDisable">#614D5E</color>
+    <color name="darkEnable">#000000</color>
 </resources>

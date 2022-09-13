@@ -17,7 +17,7 @@ class MainActivityViewModel : ViewModel() {
     fun getJoke() {
         dadJokes.getRandomJoke(object : JokeCallback {
             override fun onSuccess(joke: Joke) {
-                liveJoke.value = joke.joke
+                liveJoke.value = joke.question
             }
 
             override fun onFailure() {

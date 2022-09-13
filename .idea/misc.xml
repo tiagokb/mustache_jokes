@@ -15,6 +15,23 @@
         <entry key="..\:/Users/Tiago/AndroidStudioProjects/MustacheJokes/app/src/main/res/layout/toolbar.xml" value="0.3578125" />
         <entry key="..\:/Users/Tiago/AndroidStudioProjects/MustacheJokes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.154" />
         <entry key="..\:/Users/Tiago/AndroidStudioProjects/MustacheJokes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.154" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/answer_background.xml" value="0.1985" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/button_background.xml" value="0.1035" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/button_background_disabled.xml" value="0.1035" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/button_background_enabled.xml" value="0.1035" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/et_default_background.xml" value="0.1985" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/ic_favorite.xml" value="0.1985" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1985" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/drawable/writed_background.xml" value="0.1985" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/button_loading.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_container.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_favorites.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_jokes.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_new.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_write.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/fragment_writed.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/layout/writed_rv_item.xml" value="0.29322916666666665" />
         <entry key="..\:/Users/Tiago/Documents/GitHub/mustache_jokes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>

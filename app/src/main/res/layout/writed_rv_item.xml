@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="2dp"
+    app:cardElevation="2dp"
+    android:layout_marginTop="4dp"
+    tools:showIn="@layout/fragment_writed">
+
+    <LinearLayout
+        style="@style/FormContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/item_question"
+            style="@style/DefaultTextText.OnPrimary"
+            tools:text="O que é o que é?" />
+
+        <TextView
+            android:id="@+id/item_answer"
+            style="@style/DefaultTextText"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            tools:text="Chuta no teu pé" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
